@@ -6,9 +6,6 @@
     "list.inactiveSelectionBackground": "#231739",
     "list.focusBackground": "#231739",
     "list.hoverBackground": "#231739",
-    "terminalCursor.foreground": "#C45DFF",
-    "activityBar.background": "#263023",
-    "titleBar.activeBackground": "#354332",
-    "titleBar.activeForeground": "#F8FAF8"
+    "terminalCursor.foreground": "#C45DFF"
   }
 }
